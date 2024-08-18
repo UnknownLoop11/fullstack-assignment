@@ -1,6 +1,6 @@
 ## Backend Installation
 
-#### Please follow the steps below to run the client locally.
+#### Please follow the steps below to run the server locally.
 - Open Terminal/Cmd and navigate to the /backend directory.
 - Run the command - ```npm install```
 - Once the dependencies are installed, you must create a ```.env``` file in the current directory.
