@@ -7,6 +7,6 @@
 - Create a MongoDB account, in Mongo Atlas and create a free cluster.
 - Refer to this [website](https://tinyurl.com/4u6vtj84)  for detailed instructions on how to set up a cluster.
 - Copy the cluster connection (MongoDBUri) string.
-- Create an env variable ``MONGODB_URI=<paste_your_mongo_uri_string>```
+- Create an env variable ```MONGODB_URI=<paste_your_mongo_uri_string>```
 - And start the server with the command:
   ```npm run start```
