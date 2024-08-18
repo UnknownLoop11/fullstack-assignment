@@ -14,5 +14,6 @@ A Help Center page in which you can find and get relevant information about a sp
 - Implemented RESTful APIs for communication.
 - Enhanced validations and minor bugs for seamless functionality.
 
-#### To run this project locally follow the steps in '/backend' & '/frontend' directory for detailed instructions.
+#### To run this project locally, first clone the repository and follow the steps specified in '/backend' & '/frontend' directory for detailed instructions.
+
 
