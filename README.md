@@ -6,7 +6,7 @@ A Help Center page in which you can find and get relevant information about a sp
 - **Tech Stack** - React JS, Tailwind CSS
 - Resembled the provided UI.
 - Displays the "Help center cards".
-- The Search Bar is also a function, where users can search for a particular info.
+- The Search Bar is also functional, so users can search for a particular info.
 - The cards are interactive.
    
 ### Backend:
