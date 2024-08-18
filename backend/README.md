@@ -28,5 +28,5 @@
 - **Get all cards in the database.**
 
 ### GET - /cards/:title
-- Get a specific card detail by ```:title``` query.
+- **Get a specific card detail by ```:title``` query.**
 
